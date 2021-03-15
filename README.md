@@ -1,4 +1,4 @@
-# iCrop-WebUI
+# iFarm-WebUI
 ***
 ## Requerimientos funcionales:
 - Se podrá visualizar un tutorial sobre el uso del app
