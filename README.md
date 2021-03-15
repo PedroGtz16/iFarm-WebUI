@@ -4,7 +4,7 @@
 - Se podrá visualizar un tutorial sobre el uso del app
 - Visualización agradable de los elementos climatológicos 
 - Se podrá asignar el envío de alertas a usuarios específicos
-- - Calendario interactivo para ver el progreso y varianza de los cultivos
+- Calendario interactivo para ver el progreso y varianza de los cultivos
 - Se desplegará en pantalla únicamente los tipos de cultivo que la app soporta en una lista de preselección
 - El formulario de registro aceptará únicamente valores a fin a cada campo (nombre, correo, imagen, contraseña)
 
